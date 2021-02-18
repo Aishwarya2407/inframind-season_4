@@ -1,6 +1,6 @@
-package com. voicerecog.test;
+package com.voicerecog.test;
 
-import java.io. IOException;
+import java.io.IOException;
 
 import edu.cmu.sphinx.api.Configuration;
 import edu.cmu.sphinx.api.LiveSpeechRecognizer;
