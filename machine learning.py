@@ -129,6 +129,6 @@ fig = plt.gcf()
 fig.gca().add_artist(centre_circle)
 ax1.axis('equal')  
 plt.tight_layout()
-plt.show(
+plt.show()
 
 
