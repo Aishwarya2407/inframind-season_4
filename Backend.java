@@ -3,9 +3,9 @@ package com. voicerecog.test;
 import java.io. IOException;
 
 import edu.cmu.sphinx.api.Configuration;
-import edu.cmu. sphinx.api. LiveSpeechRecognizer;
+import edu.cmu.sphinx.api.LiveSpeechRecognizer;
 
-import edu.cmu.sphinx.api. SpeechResult;
+import edu.cmu.sphinx.api.SpeechResult;
 
 public class VoiceRecognizer {
 
